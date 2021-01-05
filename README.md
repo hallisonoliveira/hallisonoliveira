@@ -8,4 +8,4 @@ Minhas principais areas de interesse incluem desenvolvimento de aplicativos nati
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=hallisonoliveira.github.io)

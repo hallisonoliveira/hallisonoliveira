@@ -6,4 +6,6 @@ Possuo experiência também em desenvolvimento de software para ambientes Linux 
 
 Minhas principais areas de interesse incluem desenvolvimento de aplicativos nativos e híbridos para dispositivos móveis e desenvolvimento de software para ambientes embarcados.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonoliveira)](https://github.com/anuraghazra/github-readme-stats)
